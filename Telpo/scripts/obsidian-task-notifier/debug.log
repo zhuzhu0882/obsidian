@@ -35986,3 +35986,577 @@
 [2026-05-06 14:22:24] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
 [2026-05-06 14:22:24] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
 [2026-05-06 14:22:24] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:22:54] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:22:55] iteration now=2026-05-06T14:22:54.9976143+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:22:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:22:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:22:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:22:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:23:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:23:25] iteration now=2026-05-06T14:23:25.0244379+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:23:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:23:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:23:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:23:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:23:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:23:55] iteration now=2026-05-06T14:23:55.0535147+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:23:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:23:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:23:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:23:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:24:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:24:25] iteration now=2026-05-06T14:24:25.0863853+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:24:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:24:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:24:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:24:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:24:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:24:55] iteration now=2026-05-06T14:24:55.1189395+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:24:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:24:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:24:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:24:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:25:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:25:25] iteration now=2026-05-06T14:25:25.1541645+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:25:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:25:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:25:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=True
+[2026-05-06 14:25:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:25:25] notify-order id=2026-05-06_14:00_3_workflow-drive-2026-05-06 priority=important-not-urgent rank=1/1/0/0 remaining=3
+[2026-05-06 14:25:25] toast-show invoked priority=important-not-urgent
+[2026-05-06 14:25:25] fallback-popup launched-mshta pid=56136 path=C:\Users\18826\AppData\Local\Temp\obsidian-task-notifier\task-popup.hta priority=important-not-urgent closedOld=0
+[2026-05-06 14:25:25] runlog-write ok pathBase64=QzpcVXNlcnNcMTg4MjZcRG9jdW1lbnRzXHdvcmtfZG9jX29iXFRlbHBvXOW3peS9nOeslOiusFzku4rml6XlvoXlip5c5Lu75Yqh5o+Q6YaS6L+Q6KGM5pel5b+XLm1k message=notify time=14:00 title=驱动工作流 #重要不紧急 #五一后完成（开始 2026-05-06，优先级：重要不紧急） priority=important-not-urgent displayOrder=1/1/0 remainingTotal=3 remainingShown=3 fallback=True toastShown=True popupLaunched=True
+[2026-05-06 14:25:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:25:55] iteration now=2026-05-06T14:25:55.6268170+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:25:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:25:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:25:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:25:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:26:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:26:25] iteration now=2026-05-06T14:26:25.6394739+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:26:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:26:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:26:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:26:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:26:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:26:55] iteration now=2026-05-06T14:26:55.6648134+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:26:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:26:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:26:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:26:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:27:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:27:25] iteration now=2026-05-06T14:27:25.6846170+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:27:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:27:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:27:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:27:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:27:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:27:55] iteration now=2026-05-06T14:27:55.6977137+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:27:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:27:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:27:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:27:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:28:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:28:25] iteration now=2026-05-06T14:28:25.7161087+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:28:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:28:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:28:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:28:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:28:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:28:55] iteration now=2026-05-06T14:28:55.7270926+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:28:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:28:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:28:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:28:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:29:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:29:25] iteration now=2026-05-06T14:29:25.7524278+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:29:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:29:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:29:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:29:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:29:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:29:55] iteration now=2026-05-06T14:29:55.7838509+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:29:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:29:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:29:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:29:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:30:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:30:25] iteration now=2026-05-06T14:30:25.8124554+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:30:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:30:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:30:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:30:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:30:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:30:55] iteration now=2026-05-06T14:30:55.8347722+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:30:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:30:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:30:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:30:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:31:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:31:25] iteration now=2026-05-06T14:31:25.8530909+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:31:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:31:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:31:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:31:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:31:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:31:55] iteration now=2026-05-06T14:31:55.8836339+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:31:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:31:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:31:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:31:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:32:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:32:25] iteration now=2026-05-06T14:32:25.8986099+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:32:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:32:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:32:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:32:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:32:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:32:55] iteration now=2026-05-06T14:32:55.9196522+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:32:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:32:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:32:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:32:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:33:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:33:25] iteration now=2026-05-06T14:33:25.9335301+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:33:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:33:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:33:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:33:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:33:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:33:55] iteration now=2026-05-06T14:33:55.9473419+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:33:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:33:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:33:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:33:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:34:25] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:34:25] iteration now=2026-05-06T14:34:25.9653689+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:34:25] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:34:25] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:34:25] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:34:25] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:34:55] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:34:55] iteration now=2026-05-06T14:34:55.9756205+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:34:55] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:34:55] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:34:55] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:34:55] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:35:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:35:26] iteration now=2026-05-06T14:35:26.0098546+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:35:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:35:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:35:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:35:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:35:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:35:56] iteration now=2026-05-06T14:35:56.0324335+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:35:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:35:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:35:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:35:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:36:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:36:26] iteration now=2026-05-06T14:36:26.0594848+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:36:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:36:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:36:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:36:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:36:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:36:56] iteration now=2026-05-06T14:36:56.0911665+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:36:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:36:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:36:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:36:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:37:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:37:26] iteration now=2026-05-06T14:37:26.1112112+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:37:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:37:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:37:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:37:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:37:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:37:56] iteration now=2026-05-06T14:37:56.1313759+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:37:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:37:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:37:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:37:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:38:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:38:26] iteration now=2026-05-06T14:38:26.1501611+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:38:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:38:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:38:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:38:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:38:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:38:56] iteration now=2026-05-06T14:38:56.1673093+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:38:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:38:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:38:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:38:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:39:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:39:26] iteration now=2026-05-06T14:39:26.1860589+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:39:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:39:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:39:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:39:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:39:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:39:56] iteration now=2026-05-06T14:39:56.2010633+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:39:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:39:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:39:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:39:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:40:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:40:26] iteration now=2026-05-06T14:40:26.2290665+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:40:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:40:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:40:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:40:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:40:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:40:56] iteration now=2026-05-06T14:40:56.2534449+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:40:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:40:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:40:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:40:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:41:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:41:26] iteration now=2026-05-06T14:41:26.2789514+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:41:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:41:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:41:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:41:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:41:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:41:56] iteration now=2026-05-06T14:41:56.3022063+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:41:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:41:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:41:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:41:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:42:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:42:26] iteration now=2026-05-06T14:42:26.3275719+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:42:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:42:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:42:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:42:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:42:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:42:56] iteration now=2026-05-06T14:42:56.3416230+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:42:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:42:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:42:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:42:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:43:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:43:26] iteration now=2026-05-06T14:43:26.3630106+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:43:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:43:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:43:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:43:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:43:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:43:56] iteration now=2026-05-06T14:43:56.3834326+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:43:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:43:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:43:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:43:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:44:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:44:26] iteration now=2026-05-06T14:44:26.4069659+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:44:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:44:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:44:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:44:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:44:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:44:56] iteration now=2026-05-06T14:44:56.4235550+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:44:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:44:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:44:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:44:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:45:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:45:26] iteration now=2026-05-06T14:45:26.4410972+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:45:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:45:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:45:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:45:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:45:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:45:56] iteration now=2026-05-06T14:45:56.4633704+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:45:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:45:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:45:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:45:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:46:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:46:26] iteration now=2026-05-06T14:46:26.4815025+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:46:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:46:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:46:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:46:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:46:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:46:56] iteration now=2026-05-06T14:46:56.5060144+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:46:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:46:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:46:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:46:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:47:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:47:26] iteration now=2026-05-06T14:47:26.5334638+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:47:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:47:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:47:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:47:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:47:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:47:56] iteration now=2026-05-06T14:47:56.5503936+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:47:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:47:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:47:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:47:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:48:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:48:26] iteration now=2026-05-06T14:48:26.5764270+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:48:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:48:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:48:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:48:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:48:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:48:56] iteration now=2026-05-06T14:48:56.6021174+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:48:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:48:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:48:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:48:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:49:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:49:26] iteration now=2026-05-06T14:49:26.6241020+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:49:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:49:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:49:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:49:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:49:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:49:56] iteration now=2026-05-06T14:49:56.6531557+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:49:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:49:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:49:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:49:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:50:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:50:26] iteration now=2026-05-06T14:50:26.6698934+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:50:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:50:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:50:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:50:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:50:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:50:56] iteration now=2026-05-06T14:50:56.6834101+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:50:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:50:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:50:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:50:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:51:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:51:26] iteration now=2026-05-06T14:51:26.7055832+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:51:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:51:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:51:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:51:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:51:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:51:56] iteration now=2026-05-06T14:51:56.7209920+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:51:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:51:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:51:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:51:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:52:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:52:26] iteration now=2026-05-06T14:52:26.7370741+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:52:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:52:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:52:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:52:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:52:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:52:56] iteration now=2026-05-06T14:52:56.7509460+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:52:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:52:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:52:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:52:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:53:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:53:26] iteration now=2026-05-06T14:53:26.7711453+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:53:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:53:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:53:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:53:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:53:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:53:56] iteration now=2026-05-06T14:53:56.7822651+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:53:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:53:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:53:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:53:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:54:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:54:26] iteration now=2026-05-06T14:54:26.8038049+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:54:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:54:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:54:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:54:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:54:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:54:56] iteration now=2026-05-06T14:54:56.8230576+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:54:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:54:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:54:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:54:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:55:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:55:26] iteration now=2026-05-06T14:55:26.8521194+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:55:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:55:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:55:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:55:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:55:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:55:56] iteration now=2026-05-06T14:55:56.8722995+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:55:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:55:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:55:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:55:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:56:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:56:26] iteration now=2026-05-06T14:56:26.8889623+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:56:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:56:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:56:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:56:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:56:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:56:56] iteration now=2026-05-06T14:56:56.9118756+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:56:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:56:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:56:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:56:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:57:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:57:26] iteration now=2026-05-06T14:57:26.9441444+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:57:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:57:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:57:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:57:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:57:56] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:57:56] iteration now=2026-05-06T14:57:56.9634909+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:57:56] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:57:56] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:57:56] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:57:56] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:58:26] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:58:26] iteration now=2026-05-06T14:58:26.9870833+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:58:26] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:58:26] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:58:26] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:58:26] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:58:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:58:57] iteration now=2026-05-06T14:58:57.0059286+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:58:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:58:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:58:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:58:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:59:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:59:27] iteration now=2026-05-06T14:59:27.0273748+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:59:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:59:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:59:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:59:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:59:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 14:59:57] iteration now=2026-05-06T14:59:57.0486613+08:00 tasks=4 cleanedState=0
+[2026-05-06 14:59:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 14:59:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 14:59:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 14:59:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:00:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:00:27] iteration now=2026-05-06T15:00:27.0756099+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:00:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:00:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:00:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:00:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:00:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:00:57] iteration now=2026-05-06T15:00:57.0992633+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:00:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:00:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:00:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:00:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:01:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:01:27] iteration now=2026-05-06T15:01:27.1172091+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:01:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:01:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:01:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:01:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:01:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:01:57] iteration now=2026-05-06T15:01:57.1373815+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:01:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:01:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:01:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:01:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:02:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:02:27] iteration now=2026-05-06T15:02:27.1727217+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:02:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:02:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:02:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:02:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:02:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:02:57] iteration now=2026-05-06T15:02:57.1923861+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:02:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:02:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:02:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:02:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:03:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:03:27] iteration now=2026-05-06T15:03:27.2055214+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:03:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:03:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:03:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:03:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:03:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:03:57] iteration now=2026-05-06T15:03:57.2160231+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:03:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:03:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:03:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:03:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:04:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:04:27] iteration now=2026-05-06T15:04:27.2266011+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:04:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:04:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:04:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:04:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:04:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:04:57] iteration now=2026-05-06T15:04:57.2453528+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:04:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:04:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:04:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:04:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:05:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:05:27] iteration now=2026-05-06T15:05:27.2731387+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:05:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:05:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:05:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:05:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:05:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:05:57] iteration now=2026-05-06T15:05:57.3018237+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:05:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:05:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:05:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:05:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:06:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:06:27] iteration now=2026-05-06T15:06:27.3233363+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:06:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:06:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:06:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:06:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:06:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:06:57] iteration now=2026-05-06T15:06:57.3499641+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:06:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:06:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:06:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:06:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:07:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:07:27] iteration now=2026-05-06T15:07:27.3751066+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:07:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:07:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:07:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:07:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:07:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:07:57] iteration now=2026-05-06T15:07:57.3897844+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:07:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:07:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:07:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:07:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:08:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:08:27] iteration now=2026-05-06T15:08:27.4096888+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:08:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:08:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:08:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:08:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:08:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:08:57] iteration now=2026-05-06T15:08:57.4298353+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:08:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:08:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:08:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:08:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:09:27] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:09:27] iteration now=2026-05-06T15:09:27.4603456+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:09:27] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:09:27] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:09:27] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:09:27] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:09:57] plan-from-plugin rawType=System.Object[] count=4
+[2026-05-06 15:09:57] iteration now=2026-05-06T15:09:57.4794958+08:00 tasks=4 cleanedState=0
+[2026-05-06 15:09:57] task-check id=2026-05-06_21:30_1_study-obsidian key=task_f548cdef12db3b3efe1f39835d6991020b32c43f466ed6e6812f61c29809600f time=21:30 priority=important-urgent shouldNotify=False
+[2026-05-06 15:09:57] task-check id=2026-05-06_22:00_2_study-obsidian-22-00-2026-05-03 key=task_5b21d740dd0b5f024156d185262643872b1316967dba9b19009d6bb8a521825f time=22:00 priority=important-urgent shouldNotify=False
+[2026-05-06 15:09:57] task-check id=2026-05-06_14:00_3_workflow-drive-2026-05-06 key=task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10 time=14:00 priority=important-not-urgent shouldNotify=False
+[2026-05-06 15:09:57] task-check id=2026-05-06_15:30_4_learn-more-ai key=task_6d0514d3779d609b7f19fb940b0c5be3c552a313fd8a0d2c429d46830e98363c time=15:30 priority=important-not-urgent shouldNotify=False
