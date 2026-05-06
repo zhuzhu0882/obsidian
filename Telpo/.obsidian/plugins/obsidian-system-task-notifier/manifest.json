@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-system-task-notifier",
+  "name": "System Task Notifier",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.5",
+  "description": "Parses today's Day Planner schedule and prepares Windows system task notifications.",
+  "author": "Claudian",
+  "isDesktopOnly": true
+}

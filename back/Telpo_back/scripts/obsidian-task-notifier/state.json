@@ -1,0 +1,314 @@
+﻿{
+    "tasks":  {
+                  "task_7dbea3d2f531e80a027b61e8050f4372b5e5818c5d9d94cb2b360e1eeb5f9c3e":  {
+                                                                                                "taskId":  "2026-05-04_16:30_5_ok",
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:35:07.8405984+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "16:30",
+                                                                                                "notifyCount":  2,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "ok"
+                                                                                            },
+                  "task_3362492f4570deaaaa32742366d95c2932184a348cdfd5d0656bd02233c7f695":  {
+                                                                                                "taskId":  "2026-05-04_21:23_6_task",
+                                                                                                "lastNotifiedAt":  "2026-05-04T21:48:50.7198764+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "21:23",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习英语 （每日持续；晚间学习时段）"
+                                                                                            },
+                  "task_619cab1785ed5f2a2b9b99b50f149d2806a49c5c084ce33bea30f2398ba60db4":  {
+                                                                                                "taskId":  "2026-05-04_23:04_5_task",
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:04:25.9528505+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "23:04",
+                                                                                                "notifyCount":  1,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "测试学习 （今晚截止；重要紧急）"
+                                                                                            },
+                  "task_a06b4305e6243b05db0450e7b0ee73351ad71490859389b22650b23f5a85d882":  {
+                                                                                                "taskId":  "2026-05-04_17:01_5_ok",
+                                                                                                "lastNotifiedAt":  "2026-05-04T17:06:04.2545760+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "17:01",
+                                                                                                "notifyCount":  2,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "ok学习"
+                                                                                            },
+                  "task_71c3402160bd0473579c80dd33d243bc768e5b78d09715d2c433129f4018c072":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:52:33.1813831+08:00",
+                                                                                                "time":  "16:09",
+                                                                                                "title":  "驱动工作流（节后启动；重要不紧急）",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_16:09_3_workflow-drive",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_9c34296953fa50e70c9b3481a35673c9c6282370f39af9169b05804e0f8d0e61":  {
+                                                                                                "taskId":  "2026-05-05_22:00_2_study-obsidian-22-00-2026-05-03",
+                                                                                                "lastNotifiedAt":  "2026-05-05T22:25:04.7890085+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:00",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习obsidian #重要紧急（截止 22:00，截止 2026-05-03，优先级：重要紧急）"
+                                                                                            },
+                  "task_582111f85ee5d4c9ae6a0e9e8d05556cabeb1e8fdb27b513ee9f9f9505f8665b":  {
+                                                                                                "taskId":  "2026-05-04_23:16_5_task",
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:41:28.3810101+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "23:16",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "测试学习 （今晚截止；重要紧急）"
+                                                                                            },
+                  "task_2719cdc1c70b515c1fe1c73dd728170ee422dd5422aa1a860a8832ff8ff50349":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:58:05.7286533+08:00",
+                                                                                                "time":  "22:00",
+                                                                                                "title":  "学习obsidian（今晚截止；重要紧急） ✅ 2026-05-04",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_22:00_2_study-obsidian-2026-05-04",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_f09f08b8a5b57f1f764dc69b454348f4e9e535a9beefc4ff7a3e91eba04678e2":  {
+                                                                                                "taskId":  "2026-05-04_16:42_5_ok",
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:47:09.3024415+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "16:42",
+                                                                                                "notifyCount":  2,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "ok学习"
+                                                                                            },
+                  "task_2628642e56dbff99e2cd4f51e39a6c10534f7ea1357df3ebf8995e12949605da":  {
+                                                                                                "taskId":  "2026-05-04_22:00_2_study-obsidian",
+                                                                                                "lastNotifiedAt":  "2026-05-04T22:25:45.3854676+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:00",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习obsidian（今晚截止；重要紧急）"
+                                                                                            },
+                  "task_e7f7c497a5b195f465a5dbb41ff92b97d3183fcb7fc2e49bc4e477b0b959f18c":  {
+                                                                                                "taskId":  "2026-05-04_22:30_8_2026-05-04",
+                                                                                                "lastNotifiedAt":  "2026-05-04T22:55:19.1866969+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:30",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "休息 ✅ 2026-05-04"
+                                                                                            },
+                  "task_44a28e4c191819104c144836787fd3712631906d57b3c44f2b4f5e58767e00c9":  {
+                                                                                                "taskId":  "2026-05-04_22:30_6_task",
+                                                                                                "lastNotifiedAt":  "",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:30",
+                                                                                                "notifyCount":  0,
+                                                                                                "status":  "pending",
+                                                                                                "title":  "休息"
+                                                                                            },
+                  "task_d6a1a296565883246f2f6449cd84247fa8f217ce8fe28f36eece7de78a6022ba":  {
+                                                                                                "taskId":  "2026-05-04_22:30_7_2026-05-04",
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:57:04.4179705+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:30",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "休息 ✅ 2026-05-04"
+                                                                                            },
+                  "task_df9c777257fb17250f137e01fa26d7c8a6d183d55b02650b6665c4547ea9a054":  {
+                                                                                                "taskId":  "2026-05-05_15:30_4_learn-more-ai",
+                                                                                                "lastNotifiedAt":  "2026-05-05T15:55:13.5711998+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "15:30",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习更多AI知识 #重要不紧急 #持续行为（优先级：重要不紧急，持续任务）"
+                                                                                            },
+                  "task_ca74ae432f1e8700dd4bfe64075760e14b716a9c41322e16c85efb61c807dbca":  {
+                                                                                                "taskId":  "2026-05-04_22:30_6_xiu-x",
+                                                                                                "lastNotifiedAt":  "",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:30",
+                                                                                                "notifyCount":  0,
+                                                                                                "status":  "pending",
+                                                                                                "title":  "xiu\u0027x"
+                                                                                            },
+                  "task_74d0cdf7ef3ef9f4334eef5f262df475be1036d1905754d29e9a47b518d3ca96":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:57:04.4179705+08:00",
+                                                                                                "time":  "21:23",
+                                                                                                "title":  "学习英语 （每日持续；晚间学习时段） ✅ 2026-05-04",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_21:23_6_2026-05-04",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_4bcd08d2c8a46167afde57f906796bb922669b1dca9716e49141e7fdef270647":  {
+                                                                                                "taskId":  "2026-05-04_16:28_5_ok",
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:28:06.8289475+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "16:28",
+                                                                                                "notifyCount":  1,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "ok"
+                                                                                            },
+                  "task_f541f1a2665e770c0b116b814c127b098dbbfcb87afc9c7279d32adc083093e3":  {
+                                                                                                "taskId":  "2026-05-04_20:09_3_workflow-drive",
+                                                                                                "lastNotifiedAt":  "2026-05-04T20:34:08.0958079+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "20:09",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "驱动工作流（节后启动；重要不紧急）"
+                                                                                            },
+                  "2026-05-04_21:30_1_瀛︿範obsidian_缂撳啿":  {
+                                                             "notifyCount":  0,
+                                                             "status":  "pending",
+                                                             "lastNotifiedAt":  "",
+                                                             "snoozeUntil":  ""
+                                                         },
+                  "task_e5fcc657be3ca2ecd8be1a6c681d2f2d4ea5d99bca010d83b14bfb23522c9214":  {
+                                                                                                "taskId":  "2026-05-04_23:06_5_task",
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:11:27.1430679+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "23:06",
+                                                                                                "notifyCount":  2,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "测试学习 （今晚截止；重要紧急）"
+                                                                                            },
+                  "task_c422a0d53c3ece63b0130aa60c0f5d4806b3b5b6ae0d290c478f7eefd295cb2e":  {
+                                                                                                "taskId":  "2026-05-05_14:00_3_workflow-drive-2026-05-06",
+                                                                                                "lastNotifiedAt":  "2026-05-05T14:25:07.5788904+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "14:00",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "驱动工作流 #重要不紧急 #五一后完成（开始 2026-05-06，优先级：重要不紧急）"
+                                                                                            },
+                  "task_dd32a48dc8c07cf62cba6287634a2d37c7ce846218340d0d1130b8e0143614ed":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:57:04.4179705+08:00",
+                                                                                                "time":  "23:16",
+                                                                                                "title":  "测试学习 （今晚截止；重要紧急） ✅ 2026-05-04",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_23:16_5_2026-05-04",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_5cf569f7c7f99e20542a2e04d2d689210524e8c09bfda9ec81cf6ebf3a368031":  {
+                                                                                                "taskId":  "2026-05-04_22:30_6_2026-05-04",
+                                                                                                "lastNotifiedAt":  "",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "22:30",
+                                                                                                "notifyCount":  0,
+                                                                                                "status":  "pending",
+                                                                                                "title":  "休息 ✅ 2026-05-04"
+                                                                                            },
+                  "2026-05-04_22:00_2_瀛︿範obsidian_鎴":  {
+                                                             "notifyCount":  0,
+                                                             "status":  "pending",
+                                                             "lastNotifiedAt":  "",
+                                                             "snoozeUntil":  ""
+                                                         },
+                  "task_0a26e9dc3626f30838af5fa0587b33953f5d8497e5fedfe3f996535f4209fa31":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:23:35.7354828+08:00",
+                                                                                                "time":  "05:57",
+                                                                                                "title":  "学习更多AI知识（每日持续；晚间学习时段）",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_05:57_4_learn-more-ai",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_ab4039652e608fa6e8370bf0c260bd1b9b498bb7958bb22817fbb2d7bea43ea3":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:58:05.7286533+08:00",
+                                                                                                "time":  "21:30",
+                                                                                                "title":  "学习obsidian（重要紧急任务预留缓冲；提前准备与排除干扰） ✅ 2026-05-04",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_21:30_1_study-obsidian-2026-05-04",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_ec8d535d1f4074905302076df78fd48cf7684dbf2401de64349e65800954894f":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:41:08.3146466+08:00",
+                                                                                                "time":  "16:40",
+                                                                                                "title":  "ok学习",
+                                                                                                "notifyCount":  1,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_16:40_5_ok",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_da113d1fa6a6ad86ca6e07fe7f41f1cf1de8275e95a08ec63d02557d059748a5":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T15:18:28.8307632+08:00",
+                                                                                                "time":  "14:09",
+                                                                                                "title":  "驱动工作流（节后启动；重要不紧急）",
+                                                                                                "notifyCount":  2,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_14:09_3_workflow-drive",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_998f3e0e62366087f424e6391c91c1a52742cb0c33b60f06eb9d095081fbd701":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T16:23:35.7354828+08:00",
+                                                                                                "time":  "15:16",
+                                                                                                "title":  "驱动工作流（节后启动；重要不紧急）",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_15:16_3_workflow-drive",
+                                                                                                "snoozeUntil":  ""
+                                                                                            },
+                  "task_b6904289390a271b717162f75c7f00308824afd30b3e9fca98e4f924afb617e1":  {
+                                                                                                "taskId":  "2026-05-05_21:30_1_study-obsidian",
+                                                                                                "lastNotifiedAt":  "",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "21:30",
+                                                                                                "notifyCount":  0,
+                                                                                                "status":  "pending",
+                                                                                                "title":  "学习obsidian #重要紧急（重要紧急任务预留缓冲；提前准备与排除干扰）"
+                                                                                            },
+                  "task_b8659a99d01392068c6c99c8defcd0e69c8a5a93e5f8acac46b34d2916a75dd0":  {
+                                                                                                "taskId":  "2026-05-05_00:02_1_study-obsidian",
+                                                                                                "lastNotifiedAt":  "2026-05-05T00:27:23.3134786+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "00:02",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习obsidian #重要紧急（重要紧急任务预留缓冲；提前准备与排除干扰）"
+                                                                                            },
+                  "task_283e041219d506748e04afc245237ce0978e576c85587fa3e7b645e465288622":  {
+                                                                                                "taskId":  "2026-05-04_17:14_5_ok",
+                                                                                                "lastNotifiedAt":  "2026-05-04T17:39:47.3696769+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "17:14",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "ok学习"
+                                                                                            },
+                  "task_2491b15a937545da184e3c5950ef820480b93ebc95b43ec49d6c83f6e9c84099":  {
+                                                                                                "taskId":  "2026-05-04_19:57_4_learn-more-ai",
+                                                                                                "lastNotifiedAt":  "2026-05-04T20:22:06.8870104+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "19:57",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习更多AI知识（每日持续；晚间学习时段）"
+                                                                                            },
+                  "task_50edb1a1db3ca37de96750aeea293c1d961ac4d57bed550f471493626787e2d2":  {
+                                                                                                "taskId":  "2026-05-04_21:30_1_study-obsidian",
+                                                                                                "lastNotifiedAt":  "2026-05-04T21:55:51.4579940+08:00",
+                                                                                                "snoozeUntil":  "",
+                                                                                                "time":  "21:30",
+                                                                                                "notifyCount":  4,
+                                                                                                "status":  "notified",
+                                                                                                "title":  "学习obsidian（重要紧急任务预留缓冲；提前准备与排除干扰）"
+                                                                                            },
+                  "task_0553e5e03610fec24652aef8905ff4fbc0fa9c46bbe05f41ea92eacc68ba6a0c":  {
+                                                                                                "lastNotifiedAt":  "2026-05-04T23:58:05.7286533+08:00",
+                                                                                                "time":  "19:57",
+                                                                                                "title":  "学习更多AI知识（每日持续；晚间学习时段） ✅ 2026-05-04",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
+                                                                                                "taskId":  "2026-05-04_19:57_4_learn-more-ai-2026-05-04",
+                                                                                                "snoozeUntil":  ""
+                                                                                            }
+              },
+    "lastRunAt":  "2026-05-05T22:54:06.4543869+08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777992377686-0zi2s1rp2",
+  "providerId": "claude",
+  "title": "配置 Obsidian 与 OneDrive 同步",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777992377686,
+  "updatedAt": 1777992766705,
+  "lastResponseAt": 1777992766705,
+  "sessionId": "cb3b2bdc-4de8-4f7d-9ea7-3c06be40df24",
+  "providerState": {
+    "providerSessionId": "cb3b2bdc-4de8-4f7d-9ea7-3c06be40df24"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 85,
+    "cacheCreationInputTokens": 341,
+    "cacheReadInputTokens": 23040,
+    "contextWindow": 200000,
+    "contextTokens": 23466,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

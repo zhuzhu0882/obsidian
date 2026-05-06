@@ -1,0 +1,163 @@
+[
+  {
+    "id": "claudian",
+    "name": "Claudian",
+    "repo": "YishenTu/claudian",
+    "tag": "2.0.10",
+    "note": "previously installed"
+  },
+  {
+    "id": "obsidian-charts",
+    "name": "Charts",
+    "repo": "phibr0/obsidian-charts",
+    "tag": "3.9.0",
+    "note": ""
+  },
+  {
+    "id": "obsidian-mind-map",
+    "name": "Mind Map",
+    "repo": "lynchjames/obsidian-mind-map",
+    "tag": "1.1.0",
+    "note": ""
+  },
+  {
+    "id": "obsidian-emoji-toolbar",
+    "name": "Emoji Toolbar",
+    "repo": "oliveryh/obsidian-emoji-toolbar",
+    "tag": "1.0.0",
+    "note": ""
+  },
+  {
+    "id": "obsidian-annotator",
+    "name": "Annotator",
+    "repo": "elias-sundqvist/obsidian-annotator",
+    "tag": "0.2.11",
+    "note": ""
+  },
+  {
+    "id": "media-extended",
+    "name": "Media Extended",
+    "repo": "aidenlx/media-extended",
+    "tag": "4.2.0",
+    "note": "latest stable plugin release; GitHub latest points to daemon asset"
+  },
+  {
+    "id": "timelines-revamped",
+    "name": "Timelines (Revamped)",
+    "repo": "seanlowe/obsidian-timelines",
+    "tag": "2.4.0",
+    "note": "image label Timelines"
+  },
+  {
+    "id": "recent-files-obsidian",
+    "name": "Recent Files",
+    "repo": "tgrosinger/recent-files-obsidian",
+    "tag": "1.7.7",
+    "note": ""
+  },
+  {
+    "id": "calendar",
+    "name": "Calendar",
+    "repo": "liamcain/obsidian-calendar-plugin",
+    "tag": "1.5.10",
+    "note": "last stable release whose manifest id is calendar"
+  },
+  {
+    "id": "obsidian-dictionary-plugin",
+    "name": "Dictionary",
+    "repo": "phibr0/obsidian-dictionary",
+    "tag": "2.22.0",
+    "note": ""
+  },
+  {
+    "id": "better-word-count",
+    "name": "Better Word Count",
+    "repo": "lukeleppan/better-word-count",
+    "tag": "0.10.1",
+    "note": ""
+  },
+  {
+    "id": "obsidian-codemirror-options",
+    "name": "CodeMirror Options",
+    "repo": "nothingislost/obsidian-codemirror-options",
+    "tag": "0.9.5",
+    "note": "legacy plugin not in current official community index"
+  },
+  {
+    "id": "table-editor-obsidian",
+    "name": "Advanced Tables",
+    "repo": "tgrosinger/advanced-tables-obsidian",
+    "tag": "0.22.2",
+    "note": ""
+  },
+  {
+    "id": "remember-cursor-position",
+    "name": "Remember cursor position",
+    "repo": "dy-sh/obsidian-remember-cursor-position",
+    "tag": "1.0.11",
+    "note": ""
+  },
+  {
+    "id": "obsidian-auto-pair-chinese-symbol",
+    "name": "Auto pair Chinese symbol",
+    "repo": "renmu123/obsidian-auto-pair-chinese-symbol",
+    "tag": "0.9.5",
+    "note": ""
+  },
+  {
+    "id": "better-fn",
+    "name": "Better footnote",
+    "repo": "aidenlx/better-fn",
+    "tag": "1.0.1",
+    "note": "legacy plugin not in current official community index"
+  },
+  {
+    "id": "obsidian-tasks-plugin",
+    "name": "Tasks",
+    "repo": "obsidian-tasks-group/obsidian-tasks",
+    "tag": "7.23.1",
+    "note": ""
+  },
+  {
+    "id": "obsidian-kanban",
+    "name": "Kanban",
+    "repo": "obsidian-community/obsidian-kanban",
+    "tag": "2.0.51",
+    "note": ""
+  },
+  {
+    "id": "obsidian-day-planner",
+    "name": "Day Planner",
+    "repo": "ivan-lednev/obsidian-day-planner",
+    "tag": "0.28.0",
+    "note": ""
+  },
+  {
+    "id": "dataview",
+    "name": "Dataview",
+    "repo": "blacksmithgu/obsidian-dataview",
+    "tag": "0.5.70",
+    "note": ""
+  },
+  {
+    "id": "quickadd",
+    "name": "QuickAdd",
+    "repo": "chhoumann/quickadd",
+    "tag": "2.12.0",
+    "note": ""
+  },
+  {
+    "id": "templater-obsidian",
+    "name": "Templater",
+    "repo": "SilentVoid13/Templater",
+    "tag": "2.20.0",
+    "note": ""
+  },
+  {
+    "id": "obsidian-system-task-notifier",
+    "name": "System Task Notifier",
+    "repo": "local/obsidian-system-task-notifier",
+    "tag": "0.1.0",
+    "note": "local bundled plugin for Windows system task notifications"
+  }
+]

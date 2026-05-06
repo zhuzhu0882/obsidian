@@ -1,0 +1,73 @@
+{
+  "todoFolder": "工作笔记/今日待办",
+  "plannerHeading": "## Day Planner 今日安排",
+  "enableToast": true,
+  "enableSound": true,
+  "enableFallbackPopup": true,
+  "repeatMinutes": [
+    2,
+    5,
+    10
+  ],
+  "maxNotifyCount": 4,
+  "lastRefreshAt": "2026-05-04T16:00:30.279Z",
+  "lastPlanDate": "2026-05-05",
+  "tasks": [
+    {
+      "id": "2026-05-05_00:02_1_study-obsidian",
+      "planDate": "2026-05-05",
+      "time": "00:02",
+      "title": "学习obsidian #重要紧急（重要紧急任务预留缓冲；提前准备与排除干扰）",
+      "sourceFile": "C:\\Users\\18826\\Documents\\work_doc_ob\\Telpo\\工作笔记\\今日待办\\2026-05-05-今日待办.md",
+      "sourceLine": 1,
+      "rawText": "- [ ] 00:02 学习obsidian #重要紧急（重要紧急任务预留缓冲；提前准备与排除干扰）",
+      "priority": "important-urgent",
+      "status": "pending",
+      "notifyCount": 0,
+      "lastNotifiedAt": "",
+      "snoozeUntil": ""
+    },
+    {
+      "id": "2026-05-05_22:00_2_study-obsidian-22-00-2026-05-03",
+      "planDate": "2026-05-05",
+      "time": "22:00",
+      "title": "学习obsidian #重要紧急（截止 22:00，截止 2026-05-03，优先级：重要紧急）",
+      "sourceFile": "C:\\Users\\18826\\Documents\\work_doc_ob\\Telpo\\工作笔记\\今日待办\\2026-05-05-今日待办.md",
+      "sourceLine": 2,
+      "rawText": "- [ ] 22:00 学习obsidian #重要紧急（截止 22:00，截止 2026-05-03，优先级：重要紧急）",
+      "priority": "important-urgent",
+      "status": "pending",
+      "notifyCount": 0,
+      "lastNotifiedAt": "",
+      "snoozeUntil": ""
+    },
+    {
+      "id": "2026-05-05_14:00_3_workflow-drive-2026-05-06",
+      "planDate": "2026-05-05",
+      "time": "14:00",
+      "title": "驱动工作流 #重要不紧急 #五一后完成（开始 2026-05-06，优先级：重要不紧急）",
+      "sourceFile": "C:\\Users\\18826\\Documents\\work_doc_ob\\Telpo\\工作笔记\\今日待办\\2026-05-05-今日待办.md",
+      "sourceLine": 3,
+      "rawText": "- [ ] 14:00 驱动工作流 #重要不紧急 #五一后完成（开始 2026-05-06，优先级：重要不紧急）",
+      "priority": "important-not-urgent",
+      "status": "pending",
+      "notifyCount": 0,
+      "lastNotifiedAt": "",
+      "snoozeUntil": ""
+    },
+    {
+      "id": "2026-05-05_15:30_4_learn-more-ai",
+      "planDate": "2026-05-05",
+      "time": "15:30",
+      "title": "学习更多AI知识 #重要不紧急 #持续行为（优先级：重要不紧急，持续任务）",
+      "sourceFile": "C:\\Users\\18826\\Documents\\work_doc_ob\\Telpo\\工作笔记\\今日待办\\2026-05-05-今日待办.md",
+      "sourceLine": 4,
+      "rawText": "- [ ] 15:30 学习更多AI知识 #重要不紧急 #持续行为（优先级：重要不紧急，持续任务）",
+      "priority": "important-not-urgent",
+      "status": "pending",
+      "notifyCount": 0,
+      "lastNotifiedAt": "",
+      "snoozeUntil": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "open-in-terminal:open-codex": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "claudian:close-current-tab": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "0"
+    }
+  ],
+  "claudian:inline-edit": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "claudian:new-session": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "claudian:new-tab": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "claudian:open-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "todoFolder": "工作笔记/今日待办",
+  "plannerHeading": "## Day Planner 今日安排",
+  "enableToast": true,
+  "enableSound": true,
+  "enableFallbackPopup": true,
+  "repeatMinutes": [2, 5, 10],
+  "maxNotifyCount": 4,
+  "lastRefreshAt": "",
+  "lastPlanDate": "",
+  "tasks": []
+}
