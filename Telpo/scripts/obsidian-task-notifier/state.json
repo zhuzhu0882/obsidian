@@ -302,13 +302,13 @@
                                                                                             },
                   "task_a181aa7ca3c60e9d6fe80a55da45e31352c791c467df07e65dd80328951f7f10":  {
                                                                                                 "taskId":  "2026-05-06_14:00_3_workflow-drive-2026-05-06",
-                                                                                                "lastNotifiedAt":  "",
+                                                                                                "lastNotifiedAt":  "2026-05-06T14:15:24.1713318+08:00",
                                                                                                 "snoozeUntil":  "",
                                                                                                 "time":  "14:00",
-                                                                                                "notifyCount":  0,
-                                                                                                "status":  "pending",
+                                                                                                "notifyCount":  3,
+                                                                                                "status":  "notified",
                                                                                                 "title":  "驱动工作流 #重要不紧急 #五一后完成（开始 2026-05-06，优先级：重要不紧急）"
                                                                                             }
               },
-    "lastRunAt":  "2026-05-06T12:38:18.4200313+08:00"
+    "lastRunAt":  "2026-05-06T14:22:24.9774479+08:00"
 }
